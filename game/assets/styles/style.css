@@ -1,0 +1,23 @@
+*{ 
+    text-align: center;
+}
+
+.character-image img {
+    width: 600px;
+    height:400px;
+}
+
+.character-name {
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.character-health {
+    font-size: large;
+    font-weight: bold;
+}
+
+.fight-status {
+    font-size: x-large;
+    font-weight: bold;
+}
